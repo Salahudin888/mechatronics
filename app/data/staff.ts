@@ -11,7 +11,7 @@ export type StaffMember = {
 export const staff: StaffMember[] = [
   {
     id: 1,
-    name: "Dr. Teacher Name",
+    name: "Dr. Tesfaye Kebede",
     position: "Head of Department",
     specialization: "Mechatronics Engineering",
     email: "teacher1@wku.edu.et",
@@ -21,51 +21,82 @@ export const staff: StaffMember[] = [
 
   {
     id: 2,
-    name: "Teacher Name",
-    position: "Assistant Professor",
-    specialization: "Automation and Control",
-    email: "teacher2@wku.edu.et",
-    phone: "+251 9XX XXX XXX",
-    image: "/staff/teacher2.jpg",
-  },
-
-  {
-    id: 3,
-    name: "Teacher Name",
+    name: "Solomon Dargie",
     position: "Lecturer",
-    specialization: "Robotics and Industrial Automation",
+    specialization: "Mechatronics Engineering",
     email: "teacher3@wku.edu.et",
     phone: "+251 9XX XXX XXX",
     image: "/staff/teacher3.jpg",
   },
 
   {
-    id: 4,
-    name: "Teacher Name",
+    id: 3,
+    name: "Habtu Beyene",
     position: "Lecturer",
-    specialization: "Electrical and Electronic Systems",
+    specialization: "Mechatronics Engineering",
     email: "teacher4@wku.edu.et",
     phone: "+251 9XX XXX XXX",
-    image: "/staff/teacher4.jpg",
+    image: "/staff/ha.jpg",
   },
 
   {
-    id: 5,
-    name: "Teacher Name",
+    id: 4,
+    name: "Tariku Bewuket",
     position: "Lecturer",
-    specialization: "Mechanical Systems",
+    specialization: "Mechatronics Engineering",
     email: "teacher5@wku.edu.et",
     phone: "+251 9XX XXX XXX",
     image: "/staff/teacher5.jpg",
   },
 
   {
+    id: 5,
+    name: "Tsadiku Ayekegn",
+    position: "Lecturer",
+    specialization: "Mechatronics Engineering",
+    email: "teacher6@wku.edu.et",
+    phone: "+251 9XX XXX XXX",
+    image: "/staff/ts.jpg",
+  },
+  {
     id: 6,
-    name: "Teacher Name",
-    position: "Technical Assistant",
-    specialization: "Laboratory and Technical Support",
+    name: "Fantahun Admas",
+    position: "Lecturer",
+    specialization: "Mechatronics Engineering",
     email: "teacher6@wku.edu.et",
     phone: "+251 9XX XXX XXX",
     image: "/staff/teacher6.jpg",
   },
+  {
+    id: 7,
+    name: "Yasin Mohammed",
+    position: "Technical Assistant",
+    specialization: "Mechatronics Engineering",
+    email: "teacher6@wku.edu.et",
+    phone: "+251 9XX XXX XXX",
+    image: "/staff/ya.jpg",
+  },
+  {
+    id: 8,
+    name: "kalkidan",
+    position: "Technical Assistant",
+    specialization: "Mechatronics Engineering",
+    email: "teacher6@wku.edu.et",
+    phone: "+251 9XX XXX XXX",
+    image: "/staff/teacher6.jpg",
+  },
+  {
+    id: 9,
+    name: "Selehadin Murad",
+    position: "Technical Assistant",
+    specialization: "SoftWare Engineering",
+    email: "teacher6@wku.edu.et",
+    phone: "+251 9XX XXX XXX",
+    image: "/staff/se.jpg",
+  },
+
+
+
+
+
 ];

@@ -261,7 +261,7 @@ export default function ContactPage() {
 
 
           {/* Social Media Cards */}
-          <div className="mx-auto mt-10 grid max-w-4xl gap-6 sm:grid-cols-3">
+          <div className="mx-auto mt-10 grid max-w-5xl gap-6 sm:grid-cols-2 lg:grid-cols-4">
 
 
             {/* YouTube */}
@@ -293,7 +293,7 @@ export default function ContactPage() {
 
             {/* Telegram */}
             <a
-              href="https://t.me/"
+              href="https://t.me/MECHATRONICS_ALUMINI"
               target="_blank"
               rel="noopener noreferrer"
               className="group rounded-2xl border border-gray-200 bg-white p-6 text-center shadow-sm transition-all duration-300 hover:-translate-y-1 hover:shadow-lg"
@@ -320,7 +320,7 @@ export default function ContactPage() {
 
             {/* LinkedIn */}
             <a
-              href="https://www.linkedin.com/"
+              href="https://www.linkedin.com/company/mechatronics-engineering-wollo-university-kiot/"
               target="_blank"
               rel="noopener noreferrer"
               className="group rounded-2xl border border-gray-200 bg-white p-6 text-center shadow-sm transition-all duration-300 hover:-translate-y-1 hover:shadow-lg"
@@ -340,6 +340,33 @@ export default function ContactPage() {
 
               <span className="mt-4 inline-block text-sm font-semibold text-blue-600">
                 Visit LinkedIn →
+              </span>
+
+            </a>
+
+
+            {/* TikTok */}
+            <a
+              href="https://www.tiktok.com/@mechatronic_eng_wu_kiot"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="group rounded-2xl border border-gray-200 bg-white p-6 text-center shadow-sm transition-all duration-300 hover:-translate-y-1 hover:shadow-lg"
+            >
+
+              <div className="mx-auto flex h-14 w-14 items-center justify-center rounded-full bg-gray-100 text-2xl font-bold text-gray-900">
+                ♪
+              </div>
+
+              <h3 className="mt-4 text-lg font-bold text-gray-900">
+                TikTok
+              </h3>
+
+              <p className="mt-2 text-sm text-gray-500">
+                Follow our department on TikTok
+              </p>
+
+              <span className="mt-4 inline-block text-sm font-semibold text-gray-900">
+                Visit TikTok →
               </span>
 
             </a>

@@ -78,7 +78,7 @@ export default function Footer() {
                         </h3>
 
                         <ul className="mt-4 space-y-3 text-sm">
-                            <li>📧 mechatronics@example.com</li>
+                            <li>📧 mechatronics@wu.edu.et</li>
                             <li>📞 +251 900 000 000</li>
                             <li>📍 Ethiopia</li>
                         </ul>

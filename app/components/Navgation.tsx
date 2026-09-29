@@ -23,7 +23,7 @@ export default function Navbar() {
                     onClick={closeMenus}
                     className="text-xl font-bold tracking-tight"
                 >
-                    WOLLO{" "}
+                    
                     <span className="text-blue-400">
                         MECHATRONICS
                     </span>
